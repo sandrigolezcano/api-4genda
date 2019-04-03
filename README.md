@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/sandrigolezcano/api-4genda.svg?branch=master)](https://travis-ci.org/sandrigolezcano/api-4genda)
 # 4genda API
 API de Agendamento de Serviços com Java e Spring Boot.
 ### Detalhes da API RESTful
